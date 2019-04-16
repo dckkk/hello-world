@@ -11,5 +11,9 @@ body {
 }
 
 #button-hijau {
-    color: green;
+    color: yellow;
+}
+
+.button-white {
+    color: white;
 }
